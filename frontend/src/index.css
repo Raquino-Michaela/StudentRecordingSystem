@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+<<<<<<< HEAD
+=======
+  background-image: -webkit-image-set(url(../../../../Public/3JYClR22.jpg));
+  text-align: center;
+  -webkit-text-fill-color: rgb(221, 48, 106);
+>>>>>>> 783a195 (Initial commit)
 }
 
 code {
